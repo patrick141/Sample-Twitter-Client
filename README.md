@@ -43,12 +43,8 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/patrick141/Sample-Twitter-Client/raw/master/twitterd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Here's another walkthrough of some stretch stories:
-<img src='https://github.com/patrick141/Sample-Twitter-Client/raw/master/twitterdemo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Here is what happens if the app is on airplane mode:
-<img src='https://github.com/patrick141/Sample-Twitter-Client/raw/master/twitterdemo3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://github.com/patrick141/Sample-Twitter-Client/raw/master/fulltwitter.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## Notes
 
